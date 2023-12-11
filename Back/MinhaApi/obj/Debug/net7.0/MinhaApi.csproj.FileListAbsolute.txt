@@ -1,0 +1,190 @@
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\obj\Debug\net7.0\MinhaApi.csproj.AssemblyReference.cache
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\obj\Debug\net7.0\MinhaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\obj\Debug\net7.0\MinhaApi.AssemblyInfoInputs.cache
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\obj\Debug\net7.0\MinhaApi.AssemblyInfo.cs
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\obj\Debug\net7.0\MinhaApi.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\obj\Debug\net7.0\MinhaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\obj\Debug\net7.0\MinhaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\MinhaApi.exe
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\MinhaApi.deps.json
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\MinhaApi.runtimeconfig.json
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\MinhaApi.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\MinhaApi.pdb
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\obj\Debug\net7.0\MinhaApi.RazorAssemblyInfo.cache
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\obj\Debug\net7.0\MinhaApi.RazorAssemblyInfo.cs
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\obj\Debug\net7.0\MinhaApi.csproj.CopyComplete
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\obj\Debug\net7.0\MinhaApi.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\obj\Debug\net7.0\refint\MinhaApi.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\obj\Debug\net7.0\MinhaApi.pdb
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\obj\Debug\net7.0\MinhaApi.genruntimeconfig.cache
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\obj\Debug\net7.0\ref\MinhaApi.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\System.ServiceProcess.ServiceController.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.ServiceProcess.ServiceController.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Deivid\OneDrive\Área de Trabalho\Desafio-C#\MinhaApi\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\appsettings.Development.json
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\appsettings.json
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\package-lock.json
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\package.json
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\MinhaApi.exe
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\MinhaApi.deps.json
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\MinhaApi.runtimeconfig.json
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\MinhaApi.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\MinhaApi.pdb
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\AutoMapper.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Azure.Core.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Azure.Identity.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Castle.Core.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Humanizer.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\MySqlConnector.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\System.ServiceProcess.ServiceController.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.ServiceProcess.ServiceController.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\obj\Debug\net7.0\MinhaApi.csproj.AssemblyReference.cache
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\obj\Debug\net7.0\MinhaApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\obj\Debug\net7.0\MinhaApi.AssemblyInfoInputs.cache
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\obj\Debug\net7.0\MinhaApi.AssemblyInfo.cs
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\obj\Debug\net7.0\MinhaApi.csproj.CoreCompileInputs.cache
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\obj\Debug\net7.0\MinhaApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\obj\Debug\net7.0\MinhaApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\obj\Debug\net7.0\MinhaApi.RazorAssemblyInfo.cache
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\obj\Debug\net7.0\MinhaApi.RazorAssemblyInfo.cs
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\obj\Debug\net7.0\MinhaApi.csproj.CopyComplete
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\obj\Debug\net7.0\MinhaApi.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\obj\Debug\net7.0\refint\MinhaApi.dll
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\obj\Debug\net7.0\MinhaApi.pdb
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\obj\Debug\net7.0\MinhaApi.genruntimeconfig.cache
+D:\Arquivos\Projetos pessoais\Cep-projeto\Back\MinhaApi\obj\Debug\net7.0\ref\MinhaApi.dll
